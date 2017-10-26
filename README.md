@@ -1,6 +1,6 @@
 # movie-searcher
 
-> Movie searcher with TMDB api
+> Movie searcher with themoviedb api
 
 ## Build Setup
 
