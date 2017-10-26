@@ -11,7 +11,7 @@
 			<div class="modal-info col-12 col-sm-7">
 				<h2>{{chosenMovie.title}}</h2>
 				<p>
-					<h2 class="modal-rate">&#9733; <b>{{ chosenMovie.vote_average }}</b><span class="rate-count">({{ chosenMovie.vote_count }})</span></h2>
+					<h2 class="modal-rate">&#9733; <b>{{ chosenMovie.vote_average }}</b><span class="rate-count"> ({{ chosenMovie.vote_count }})</span></h2>
 				</p>
 				<p><b>Release date</b><br><span class="modal-date success">{{ chosenMovie.release_date }}</span></p>
 				<p><b>Genres</b><br>
